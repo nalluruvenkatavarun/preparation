@@ -1,0 +1,63 @@
+Bucket List 
+
+
+DSA 
+
+
+OS 
+
+OOPS -DONE 
+
+DBMS 
+
+
+
+
+SYSTEM DESIGN 
+
+Langchain 
+
+
+Ultralytics yolo v8 
+
+Jenkins 
+
+Scipy  
+
+(Redis ,Ngnix , Azure /AWS /GCP)
+
+Numpy 
+
+Pandas 
+
+
+Docker 
+
+
+
+
+
+Node 
+
+Express
+
+Socket.io 
+
+
+Mitigating DDOS in VANETS 
+
+Factory Management System 
+
+
+
+Python 
+
+C/ c++
+
+mySQL  (relational DBMS )
+
+Javascript 
+
+Html /css 
+
+Llama index 

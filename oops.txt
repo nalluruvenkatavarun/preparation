@@ -1,0 +1,21 @@
+constructor
+destructor 
+pointer to an object 
+friend functions
+friend class
+inheritance
+accesss specifiers 
+polymorphism
+function overriding 
+function overloading 
+operator overloading
+templates 
+virtual functions 
+pure virtual functions 
+abstract class
+static variables 
+static member functions 
+templates 
+function templates 
+class templates 
+

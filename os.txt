@@ -1,0 +1,40 @@
+os 
+functionality of os 
+resource Management
+process management 
+storage management 
+memory management 
+security 
+
+
+types of os 
+batch os 
+multiprogrammed 
+multitasking 
+
+
+process states 
+NEW 
+READY 
+RUNNING 
+TERMINATED
+WAIT/BLOCK
+SUSPEND/WAIT 
+SUSPEND/READY 
+BACKING STORE
+
+
+shedulers
+LTS 
+STS
+MTS 
+
+
+priority 
+time quantum 
+
+user mode
+kernal mode 
+processes 
+threads
+

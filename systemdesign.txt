@@ -1,0 +1,25 @@
+
+
+
+
+
+
+
+
+
+
+
+Sharding 
+horizantal partitioning 
+vertical partioning 
+disadvantages of shrding 
+Single point of failure 
+service discovery 
+capacity planning anD estimation 
+content delivery networks 
+
+
+
+
+API design 
+
